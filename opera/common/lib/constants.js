@@ -9,7 +9,7 @@
       client_id    : 'wan7tdfzghu0uiisb8xoa1f4rgzsz6',
       client_secret: 'da30i8e60ippr4nd6penj65s5ildauj',
       scope        : 'user:read:follows',
-      redirect_uri : 'https://ndragomirov.github.io/twitch-opera.html'
+      redirect_uri : 'https://nicodemos234.github.io/twitch-opera.html'
     }
   };
 

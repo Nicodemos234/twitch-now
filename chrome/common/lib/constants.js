@@ -6,10 +6,10 @@
     twitchApi: {
       api          : "https://id.twitch.tv/oauth2/authorize",
       response_type: 'token',
-      client_id    : 'wan7tdfzghu0uiisb8xoa1f4rgzsz6',
-      client_secret: '2m42qpmxfy5l2ik4c93s0qco4vzfgr0',
+      client_id    : '2tmc0zaqoqsblbtv0v3tbj583q6kl5',
+      client_secret: 'z2gzcl6hnyrydqog8brjep5iuzh1zo',
       scope        : 'user:read:follows',
-      redirect_uri : 'https://ndragomirov.github.io/twitch.html'
+      redirect_uri : 'https://nicodemos234.github.io/twitch.html'
     }
   };
 

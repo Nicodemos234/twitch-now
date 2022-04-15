@@ -9,7 +9,7 @@
             client_id: 'wan7tdfzghu0uiisb8xoa1f4rgzsz6',
             client_secret: 'imouwsfvza6d4yt2on4eem1bkjxtwa9',
             scope: 'user:read:follows',
-            redirect_uri: 'https://ndragomirov.github.io/twitch-firefox.html'
+            redirect_uri: 'https://nicodemos234.github.io/twitch-firefox.html'
         }
     };
 
